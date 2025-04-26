@@ -1,6 +1,6 @@
 package com.java.project.collections;
 import java.util.TreeMap;
-
+//TreeMap Example
 public class TreeMapExample {
     public static void main(String[] args) {
         TreeMap<Integer, String> map = new TreeMap<>();
