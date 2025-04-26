@@ -3,7 +3,7 @@ package com.java.project.collections;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-
+//This is Java Collection ArrayListExample program
 public class ArrayListExample {
 
 	public static void main(String[] args) {
